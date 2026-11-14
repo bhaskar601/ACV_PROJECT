@@ -1,0 +1,108 @@
+{
+  "representative": [
+    {
+      "id": "newfoundland_79",
+      "baseline": {
+        "variant": "baseline",
+        "id": "newfoundland_79",
+        "miou": "0.592810297311511",
+        "pet_iou": "0.5847778441920701",
+        "background_iou": "0.6008427504309519"
+      },
+      "skip": {
+        "variant": "skip",
+        "id": "newfoundland_79",
+        "miou": "0.6171277959916313",
+        "pet_iou": "0.6160270431497316",
+        "background_iou": "0.6182285488335311"
+      }
+    },
+    {
+      "id": "Persian_61",
+      "baseline": {
+        "variant": "baseline",
+        "id": "Persian_61",
+        "miou": "0.7455398780296294",
+        "pet_iou": "0.7293898462971589",
+        "background_iou": "0.7616899097621"
+      },
+      "skip": {
+        "variant": "skip",
+        "id": "Persian_61",
+        "miou": "0.7293258717735496",
+        "pet_iou": "0.7099627560521415",
+        "background_iou": "0.7486889874949576"
+      }
+    },
+    {
+      "id": "english_setter_52",
+      "baseline": {
+        "variant": "baseline",
+        "id": "english_setter_52",
+        "miou": "0.9451589122873365",
+        "pet_iou": "0.9117828500925355",
+        "background_iou": "0.9785349744821374"
+      },
+      "skip": {
+        "variant": "skip",
+        "id": "english_setter_52",
+        "miou": "0.8290646123722589",
+        "pet_iou": "0.7221876942200124",
+        "background_iou": "0.9359415305245056"
+      }
+    }
+  ],
+  "failures": [
+    {
+      "id": "pomeranian_89",
+      "baseline": {
+        "variant": "baseline",
+        "id": "pomeranian_89",
+        "miou": "0.2539521699541756",
+        "pet_iou": "0.4692590043587979",
+        "background_iou": "0.038645335549553295"
+      },
+      "skip": {
+        "variant": "skip",
+        "id": "pomeranian_89",
+        "miou": "0.23019707862903066",
+        "pet_iou": "0.42463867859600823",
+        "background_iou": "0.03575547866205306"
+      }
+    },
+    {
+      "id": "Persian_97",
+      "baseline": {
+        "variant": "baseline",
+        "id": "Persian_97",
+        "miou": "0.2686428703025534",
+        "pet_iou": "0.07633232487782174",
+        "background_iou": "0.4609534157272851"
+      },
+      "skip": {
+        "variant": "skip",
+        "id": "Persian_97",
+        "miou": "0.23552251098798963",
+        "pet_iou": "0.0019574259848299485",
+        "background_iou": "0.4690875959911493"
+      }
+    },
+    {
+      "id": "keeshond_7",
+      "baseline": {
+        "variant": "baseline",
+        "id": "keeshond_7",
+        "miou": "0.2575412326388889",
+        "pet_iou": "0.0",
+        "background_iou": "0.5150824652777778"
+      },
+      "skip": {
+        "variant": "skip",
+        "id": "keeshond_7",
+        "miou": "0.24913194444444445",
+        "pet_iou": "0.0",
+        "background_iou": "0.4982638888888889"
+      }
+    }
+  ]
+}

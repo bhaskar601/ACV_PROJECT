@@ -1,0 +1,21 @@
+skip     epoch=01/20 train_loss=0.6345 val_mIoU=0.3333 seconds=14.55
+skip     epoch=02/20 train_loss=0.5527 val_mIoU=0.4827 seconds=14.63
+skip     epoch=03/20 train_loss=0.5152 val_mIoU=0.5791 seconds=14.11
+skip     epoch=04/20 train_loss=0.4853 val_mIoU=0.6206 seconds=14.02
+skip     epoch=05/20 train_loss=0.4689 val_mIoU=0.6209 seconds=14.32
+skip     epoch=06/20 train_loss=0.4621 val_mIoU=0.6304 seconds=15.29
+skip     epoch=07/20 train_loss=0.4454 val_mIoU=0.6345 seconds=15.00
+skip     epoch=08/20 train_loss=0.4407 val_mIoU=0.6319 seconds=14.29
+skip     epoch=09/20 train_loss=0.4347 val_mIoU=0.6246 seconds=14.17
+skip     epoch=10/20 train_loss=0.4339 val_mIoU=0.6325 seconds=15.17
+skip     epoch=11/20 train_loss=0.4272 val_mIoU=0.6467 seconds=17.20
+skip     epoch=12/20 train_loss=0.4157 val_mIoU=0.6343 seconds=19.68
+skip     epoch=13/20 train_loss=0.4117 val_mIoU=0.6508 seconds=18.50
+skip     epoch=14/20 train_loss=0.4045 val_mIoU=0.6614 seconds=20.18
+skip     epoch=15/20 train_loss=0.4042 val_mIoU=0.6452 seconds=19.47
+skip     epoch=16/20 train_loss=0.3837 val_mIoU=0.6807 seconds=19.86
+skip     epoch=17/20 train_loss=0.3775 val_mIoU=0.6766 seconds=18.32
+skip     epoch=18/20 train_loss=0.3713 val_mIoU=0.6925 seconds=17.92
+skip     epoch=19/20 train_loss=0.3615 val_mIoU=0.6811 seconds=16.77
+skip     epoch=20/20 train_loss=0.3547 val_mIoU=0.7047 seconds=16.02
+{"variant": "skip", "seconds": 329.55511066602776, "steps": 1860, "best_val_miou": 0.7047093991354739, "parameters": 24674}

@@ -1,0 +1,7 @@
+{
+  "variant": "baseline",
+  "seconds": 279.93530512496363,
+  "steps": 1860,
+  "best_val_miou": 0.6947391417448083,
+  "parameters": 24674
+}

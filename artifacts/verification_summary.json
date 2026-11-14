@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "exact_accuracy_match_on_checkpoint_reevaluation": true,
+  "valid_test_pixels": 5966855,
+  "epochs_per_variant": 20,
+  "updates_per_variant": 1860
+}

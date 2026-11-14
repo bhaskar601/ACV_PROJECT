@@ -1,0 +1,5 @@
+{
+  "cpu": "Apple M2",
+  "logical_cpus": 8,
+  "memory_gib": 8
+}

@@ -1,0 +1,8 @@
+{
+  "seed": 23115002,
+  "shared_initial_weights_sha256": "73fb077928043fa2339a3ab0e882722692232385bca4a9fc99fee188a958a136",
+  "shared_order_and_flip_schedule_sha256": "aec05cbf0978c7c955a3568762e25b9fbdcd2021ec142ab0b161f1d05191a707",
+  "parameters_per_variant": 24674,
+  "updates_per_variant": 1860,
+  "only_changed_mechanism": "two additive encoder-to-decoder skips"
+}

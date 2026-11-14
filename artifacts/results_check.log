@@ -1,0 +1,2 @@
+PASS: independent evaluation exactly reproduces both per-class IoUs, global mIoU and confusion matrices
+PASS: evaluated valid-pixel totals, highest-validation checkpoint selection, 20-epoch histories and 1,860 updates per model

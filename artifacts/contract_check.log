@@ -1,0 +1,3 @@
+PASS: split sizes and disjointness, label IDs, image dimensions, identical parameter shapes, hand-calculated IoU, ignored pixel exclusion, perfect-mask IoU
+PASS: identical initial weights, ignored-pixel prediction invariance, official source-pool membership
+PASS: absent-union class IoU is undefined and omitted only from image-level mean

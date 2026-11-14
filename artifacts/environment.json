@@ -1,0 +1,20 @@
+{
+  "python": "3.10.16",
+  "torch": "2.14.1",
+  "numpy": "2.2.6",
+  "platform": "macOS-27.0.1-arm64-arm-64bit",
+  "processor": "arm",
+  "device": "cpu",
+  "threads": 4,
+  "seed": 23115002,
+  "deterministic_algorithms": true,
+  "resolution": 96,
+  "batch_size": 16,
+  "epochs": 20,
+  "optimizer": "Adam",
+  "lr": 0.001,
+  "weight_decay": 0,
+  "augmentation": "paired horizontal flip p=0.5",
+  "stopping": "20 epochs; select highest validation global mIoU; earliest tie",
+  "parameters": 24674
+}

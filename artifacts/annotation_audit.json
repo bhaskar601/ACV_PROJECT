@@ -1,0 +1,47 @@
+{
+  "train": {
+    "images": 1480,
+    "no_pet_target_count": 2,
+    "cases": [
+      {
+        "id": "Egyptian_Mau_165",
+        "original_mask_counts": {
+          "2": 4915200
+        },
+        "pet_pixels_after_resize": 0
+      },
+      {
+        "id": "miniature_pinscher_14",
+        "original_mask_counts": {
+          "2": 187500
+        },
+        "pet_pixels_after_resize": 0
+      }
+    ]
+  },
+  "val": {
+    "images": 370,
+    "no_pet_target_count": 0,
+    "cases": []
+  },
+  "test": {
+    "images": 740,
+    "no_pet_target_count": 2,
+    "cases": [
+      {
+        "id": "keeshond_7",
+        "original_mask_counts": {
+          "2": 166500
+        },
+        "pet_pixels_after_resize": 0
+      },
+      {
+        "id": "Persian_259",
+        "original_mask_counts": {
+          "2": 165910
+        },
+        "pet_pixels_after_resize": 0
+      }
+    ]
+  }
+}

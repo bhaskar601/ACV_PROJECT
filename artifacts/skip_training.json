@@ -1,0 +1,7 @@
+{
+  "variant": "skip",
+  "seconds": 329.55511066602776,
+  "steps": 1860,
+  "best_val_miou": 0.7047093991354739,
+  "parameters": 24674
+}

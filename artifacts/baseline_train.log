@@ -1,0 +1,21 @@
+baseline epoch=01/20 train_loss=0.6333 val_mIoU=0.3333 seconds=14.29
+baseline epoch=02/20 train_loss=0.5720 val_mIoU=0.3333 seconds=14.39
+baseline epoch=03/20 train_loss=0.5330 val_mIoU=0.3338 seconds=14.04
+baseline epoch=04/20 train_loss=0.4960 val_mIoU=0.6118 seconds=13.71
+baseline epoch=05/20 train_loss=0.4809 val_mIoU=0.6153 seconds=13.72
+baseline epoch=06/20 train_loss=0.4653 val_mIoU=0.6037 seconds=13.87
+baseline epoch=07/20 train_loss=0.4569 val_mIoU=0.6239 seconds=13.84
+baseline epoch=08/20 train_loss=0.4515 val_mIoU=0.6334 seconds=13.78
+baseline epoch=09/20 train_loss=0.4377 val_mIoU=0.6264 seconds=13.79
+baseline epoch=10/20 train_loss=0.4523 val_mIoU=0.6413 seconds=13.72
+baseline epoch=11/20 train_loss=0.4420 val_mIoU=0.6370 seconds=14.54
+baseline epoch=12/20 train_loss=0.4218 val_mIoU=0.6363 seconds=13.76
+baseline epoch=13/20 train_loss=0.4155 val_mIoU=0.6581 seconds=13.66
+baseline epoch=14/20 train_loss=0.4024 val_mIoU=0.6615 seconds=13.72
+baseline epoch=15/20 train_loss=0.4116 val_mIoU=0.6368 seconds=14.59
+baseline epoch=16/20 train_loss=0.3906 val_mIoU=0.6813 seconds=14.29
+baseline epoch=17/20 train_loss=0.3863 val_mIoU=0.6633 seconds=14.15
+baseline epoch=18/20 train_loss=0.3733 val_mIoU=0.6901 seconds=14.12
+baseline epoch=19/20 train_loss=0.3699 val_mIoU=0.6947 seconds=13.95
+baseline epoch=20/20 train_loss=0.3625 val_mIoU=0.6798 seconds=13.98
+{"variant": "baseline", "seconds": 279.93530512496363, "steps": 1860, "best_val_miou": 0.6947391417448083, "parameters": 24674}
