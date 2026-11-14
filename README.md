@@ -2,7 +2,7 @@
 
 **Bhaskar Sahu · Roll number 23115023 · Advanced Computer Vision · Batch 2027**
 
-> Student identity: Bhaskar Sahu (23115023). The experiment seed remains `23115002` throughout the recorded protocol and artifacts; it is an experimental setting, not the student roll number.
+> Student identity: Bhaskar Sahu (23115023)
 
 This project asks a simple question: **can a small segmentation network make better predictions when the decoder can reuse features from the encoder?** To answer it, the experiment compares two versions of the same network on the Oxford-IIIT Pet dataset. One is a basic encoder–decoder. The other adds two skip connections that pass encoder features into the decoder.
 
@@ -70,8 +70,7 @@ Images are converted to RGB, resized directly to **96 × 96** with bilinear inte
 
 Only training examples receive augmentation: a horizontal flip with probability 0.5, applied to the image and its mask together. Validation and test examples are evaluated without augmentation. There is no pretrained normalization or aspect-preserving crop; the direct square resize can distort the original proportions.
 
-The [data manifest](artifacts/data_manifest.json) includes image and mask hashes. [Archive hashes](artifacts/archive_hashes.json) identify the downloaded source files. The image mirror is pinned to revision `089695c834a7deb60505b7cc506672db1c31a6aa`.
-
+ 
 ## 4. Architecture and controlled change
 
 ![Architecture of the two segmentation variants](artifacts/figures/architecture.png)
